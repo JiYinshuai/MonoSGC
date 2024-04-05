@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the PyTorch implementation of the paper Depth Estimation from Surface-Ground Correspondence for Monocular 3D Object Detection
+This is the PyTorch implementation of the paper MonoSGC.
 
 ## Overview
 
